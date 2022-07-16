@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navConatiner{
+    background-color: orangered;
+    padding: 1em;
+    margin-bottom: 1.2em;
+    color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+}
+.link{
+    text-decoration: none;
+}
